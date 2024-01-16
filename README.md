@@ -14,11 +14,17 @@ See the more explanation of details in the report.
 ## Usage
 Our user interface is implemented with python package TKinter. First you can select a selfie as input to generate stylish image, and then Select a mode to do transformation. Specifically, if we want to do style transfer, we can choose to use some selected fine styles or enable the random choice option (from 20K+ artworks) to have a surprise on unexpected result. Finally, you can download the result to your device and enjoy your stylish selfie.
 
+## User interface and the results of different style
+
 
 ![image](https://github.com/mgodto/Stylish-Selfie-Generator/assets/63898162/ff081068-d5e8-4990-ae27-a9e56295b6a9)
 
 
 ![image](https://github.com/mgodto/Stylish-Selfie-Generator/assets/63898162/816134dc-8f6d-44fc-b0ec-5b534cd244ba)
 
+
+![image](https://github.com/mgodto/Stylish-Selfie-Generator/assets/63898162/591e6168-b950-4507-9e9f-452170f072db)
+
+See the more details in the report.pdf.
 
 
