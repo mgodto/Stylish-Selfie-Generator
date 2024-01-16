@@ -16,7 +16,5 @@ Our user interface is implemented with python package TKinter. First you can sel
 ![image](https://github.com/mgodto/Stylish-Selfie-Generator/assets/63898162/816134dc-8f6d-44fc-b0ec-5b534cd244ba)
 
 
-## Contributing
 
-Please make sure to update tests as appropriate.
 
