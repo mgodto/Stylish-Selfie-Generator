@@ -10,7 +10,7 @@ In modern days, people are extremely concerned with their outfit due to the wide
 
 
 ## Proposed methods
-Our projects contain 3 methods for generating the style, which are NPR drawing generation, Pencil sketch generation and Style Transfer.
+Our project contains 3 methods for generating the style, which are NPR drawing generation, Pencil sketch generation and Style Transfer.
 The first two are work with the mathmetical base algorithms, and the last is based on deep learning method from the "paper Xun Huang and Serge Belongie (2017, March), Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [v2], arXiv, Retrieved January, 1, 2021, from https://arxiv.org/abs/1703.06868".
 See the more explanation of details in the report.pdf.
 
